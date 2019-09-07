@@ -1,13 +1,15 @@
-# PIM-amazon
-Amazon PIM Training program is started in RBS team under Amazon to help move RBS to BTO (Business Technology Operations) Organisation. RBS (Retail Business Services) is an organization within Retail Systems that supports the Retail teams worldwide. This team is primarily responsible for 7 core tasks(NIS - New Item Setup, ISS - Inbound Support Service, Prob Rec - Problem Receive, Customer serices query tickets , Andon Cord, Inbound Catalog Related YUMA, Vendor Contacts) as well as a large number of Non-standard Flex tasks. The program is launched globally on 19th Aug 2019. 
+# PIM-Amazon
+Amazon PIM Training program is started in RBS team under Amazon to help move RBS to BTO Organisation. **BTO is acronym for Business (Act like a Business Owner), Technology (Think Technology First for solution) and Operations (Solve complex challenging problems which truly require human intelligence)**. RBS (Retail Business Services) is an organization within Retail Systems that supports the Retail teams worldwide. The program is launched globally on 19th Aug 2019. 
 
-# Project Title
+PIM stands for **Process Improvement Manager** and this happens to be an IC role. The PIM is expected to identify a business problem, identify the data sets that would truly reflect the business problem, analyze the data to derive insights, develop hypothesis on what is driving the root cause and validate, post validation develop the right solution, test/pilot and prove the solution and then scale it WorldWide. In order to do this, the PIM needs to have good deep dive, a strong business acumen, ability to work with large data sets, data analytics and capability to develop light weight but scalable solutions.
 
-One Paragraph of project description goes here
+# PIM Assessment
 
-## Getting Started
+In each batch of PIM about 30 employess will be selected after a test which inlcudes (Statistics, Six Sigma, Business Accumen, SQL and Pseudo-Code Programming). First batch of program has 30 people selected from Chennai, Bangalore, Beijing and Romania and their training started on 19th Aug 2019. 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Training Curriculum
+
+<img src="https://github.com/akash211/PIM-amazon/blob/master/1565697637254-130.png" align="right" title="PIM curriculum" width="120" height="178">
 
 ### Prerequisites
 
