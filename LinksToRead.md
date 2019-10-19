@@ -6,3 +6,6 @@ This gives some good practice examples and can be read in 10 min.
 
 3. https://www.datacamp.com/community/tutorials/role-underscore-python
 How _ is used in Python.
+
+4. https://medium.com/ai³-theory-practice-business/some-light-on-magic-or-dunder-methods-in-python-546ebe392f8d
+For Dunder(Double Underscore)/magic methods like __repr__
