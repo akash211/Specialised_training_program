@@ -1,0 +1,1 @@
+## Here are all the learning materials. All the concepts here apply to Oracle or/and Redshift. Tools used is amazon internal datanet and many of the concepts apply only to datanet and nothing to do with SQL.
