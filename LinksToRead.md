@@ -10,5 +10,5 @@ How _ is used in Python.
 4. https://medium.com/ai³-theory-practice-business/some-light-on-magic-or-dunder-methods-in-python-546ebe392f8d
 For Dunder(Double Underscore)/magic methods like __repr__
 
-5. https://realpython.com/python-modules-packages/#reader-comments
+5. https://realpython.com/python-modules-packages/
 Excellent post regarding python modules and packages in general
