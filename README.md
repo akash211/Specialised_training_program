@@ -1,4 +1,4 @@
-# PIM-Amazon
+# PIM_program
 Amazon PIM Training program is started in RBS team under Amazon to help move RBS to BTO Organisation. **BTO is acronym for Business (Act like a Business Owner), Technology (Think Technology First for solution) and Operations (Solve complex challenging problems which truly require human intelligence)**. RBS (Retail Business Services) is an organization within Retail Systems that supports the Retail teams worldwide. The program is launched globally on 19th Aug 2019. 
 
 PIM stands for **Process Improvement Manager** and this happens to be an IC role. The PIM is expected to identify a business problem, identify the data sets that would truly reflect the business problem, analyze the data to derive insights, develop hypothesis on what is driving the root cause and validate, post validation develop the right solution, test/pilot and prove the solution and then scale it WorldWide. In order to do this, the PIM needs to have good deep dive, a strong business acumen, ability to work with large data sets, data analytics and capability to develop light weight but scalable solutions.
