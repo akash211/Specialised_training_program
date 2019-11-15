@@ -13,6 +13,9 @@ For Dunder(Double Underscore)/magic methods like __repr__
 5. https://realpython.com/python-modules-packages/
 Excellent post regarding python modules and packages in general
 
+6. https://www.freecodecamp.org/news/career-switchers-guide-to-your-dream-tech-job/
+Very good read 
 
 
-https://school.geekwall.in/p/NwVy-RAw/the-most-underrated-python-packages
+
+temp. https://school.geekwall.in/p/NwVy-RAw/the-most-underrated-python-packages
