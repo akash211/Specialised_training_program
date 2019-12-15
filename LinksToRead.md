@@ -13,9 +13,9 @@ For Dunder(Double Underscore)/magic methods like __repr__
 5. https://realpython.com/python-modules-packages/
 Excellent post regarding python modules and packages in general
 
-6. https://www.freecodecamp.org/news/career-switchers-guide-to-your-dream-tech-job/
-Very good read 
+6. https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29
+Some tools to improve productivity with Jupyter notebooks
 
+7. https://www.freecodecamp.org/news/career-switchers-guide-to-your-dream-tech-job/
+Very good read about career switch
 
-
-temp. https://school.geekwall.in/p/NwVy-RAw/the-most-underrated-python-packages
