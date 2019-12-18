@@ -19,3 +19,7 @@ Some tools to improve productivity with Jupyter notebooks
 7. https://www.freecodecamp.org/news/career-switchers-guide-to-your-dream-tech-job/
 Very good read about career switch
 
+8. https://realpython.com/python-statistics/
+
+
+
