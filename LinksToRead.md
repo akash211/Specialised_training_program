@@ -21,5 +21,8 @@ Very good read about career switch
 
 8. https://realpython.com/python-statistics/
 
+9. https://www.programiz.com/python-programming/methods/built-in/eval
+for understanding eval function
+
 
 
