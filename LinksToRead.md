@@ -28,7 +28,7 @@ for understanding eval function
 Correlation in python
 
 11. https://www.cs.utexas.edu/users/EWD/ewd08xx/EWD831.PDF
-Why numbering statrs at zero and why last item is excluded in ranges, slices
+Why numbering starts at zero and why last item is excluded in ranges, slices
 
 
 
