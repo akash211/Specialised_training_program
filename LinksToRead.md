@@ -27,5 +27,8 @@ for understanding eval function
 10. https://realpython.com/numpy-scipy-pandas-correlation-python/
 Correlation in python
 
+11. https://www.cs.utexas.edu/users/EWD/ewd08xx/EWD831.PDF
+Why numbering statrs at zero and why last item is excluded in ranges, slices
+
 
 
