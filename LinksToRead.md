@@ -24,5 +24,8 @@ Very good read about career switch
 9. https://www.programiz.com/python-programming/methods/built-in/eval
 for understanding eval function
 
+10. https://realpython.com/numpy-scipy-pandas-correlation-python/
+Correlation in python
+
 
 
