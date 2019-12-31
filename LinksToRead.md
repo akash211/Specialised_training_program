@@ -11,7 +11,8 @@ How _ is used in Python.
 For Dunder(Double Underscore)/magic methods like __repr__
 
 5. https://realpython.com/python-modules-packages/
-Excellent post regarding python modules and packages in general
+ and https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html
+Excellent posts regarding python modules and packages in general, escpecially import
 
 6. https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29
 Some tools to improve productivity with Jupyter notebooks
