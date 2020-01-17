@@ -32,5 +32,8 @@ Correlation in python
 11. https://www.cs.utexas.edu/users/EWD/ewd08xx/EWD831.PDF
 Why numbering starts at zero and why last item is excluded in ranges, slices
 
+12. https://treyhunner.com/2020/01/passing-functions-as-arguments/
+Some good to know points about functions in python
+
 
 
